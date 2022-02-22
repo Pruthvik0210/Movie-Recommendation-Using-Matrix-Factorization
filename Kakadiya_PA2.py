@@ -1,8 +1,5 @@
 '''
 Name: Pruthvik Kakadiya
-UTA ID: 1001861545
-Machine Learning (CSE-6363)
-Programming Assignment 2
 Movie Recommendation Using Matrix Factorization
 
 To run:
